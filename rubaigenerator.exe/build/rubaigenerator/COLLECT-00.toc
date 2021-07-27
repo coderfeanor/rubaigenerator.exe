@@ -1,0 +1,88 @@
+([('rubaigenerator.exe',
+   'C:\\Users\\FURKAN AKGÜN\\python_deneme\\python '
+   'projeler\\RubaiGenaratorFiles\\build\\rubaigenerator\\rubaigenerator.exe',
+   'EXECUTABLE'),
+  ('rubaigenerator.exe.manifest',
+   'C:\\Users\\FURKAN AKGÜN\\python_deneme\\python '
+   'projeler\\RubaiGenaratorFiles\\build\\rubaigenerator\\rubaigenerator.exe.manifest',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python39.dll',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\python39.dll',
+   'BINARY'),
+  ('_lzma',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_multiprocessing',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_overlapped',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libffi-7.dll',
+   'c:\\users\\furkan '
+   'akgün\\appdata\\local\\programs\\python\\python39-32\\DLLs\\libffi-7.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\FURKAN AKGÜN\\python_deneme\\python '
+   'projeler\\RubaiGenaratorFiles\\build\\rubaigenerator\\base_library.zip',
+   'DATA')],)
